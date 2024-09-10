@@ -1,2 +1,2 @@
 # lyricbin
-Desktop app to search for song's lyrics.
+Simple desktop app to search for song's lyrics.
